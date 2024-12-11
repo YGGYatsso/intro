@@ -30,11 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
 #  - course: Btech in Electrical Engineering
-#    institution: Indian Institute of Technology
+#    institution: Indian Institute of Technology Roorkee
 #    year: 2023
 
 # Social/Academic Networking
