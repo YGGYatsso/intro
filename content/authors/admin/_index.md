@@ -21,9 +21,9 @@ status:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- 3D Vision
+#- Statistics
+
 
 #education:
 #  courses:
@@ -33,9 +33,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Btech in Electrical Engineering
+#    institution: Indian Institute of Technology
+#    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
